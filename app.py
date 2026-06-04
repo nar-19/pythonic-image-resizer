@@ -25,6 +25,7 @@ st.set_page_config(
 )
 
 st.title("📸 Image Resizer")
+st.info("This is a beginner Pythonic image resizer developed with vibe coding. More functionalities can be added in this app.")
 st.markdown("Upload an image and choose a predefined size to resize it.")
 
 # --- 1. Upload Button ---
